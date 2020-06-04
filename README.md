@@ -1,4 +1,4 @@
-# Spotlightify
+# Spotlightify BUT BETTER
 Spotlightify is a GUI based application designed to allow users to quickly interact with the Spotify Desktop application across Windows, Linux and macOS.
 
 ## Prerequisites
